@@ -7,7 +7,7 @@ Este é um projeto integrado desenvolvido para o módulo de desktop dos cursos d
 Feito por:
 
 Gabriel Trinca de Marchi - 24002112
-Rafael Melanda Menatto - 23200271
+Rafael Melanda Menatto - 1012023200271
 Rita de Cássia Del Giudice Conceição - 24000469
 
 Este repositório contém um conjunto de páginas HTML para um **site fictício de música**, criado com propósitos **educacionais** e para prática de desenvolvimento web utilizando **HTML5**, **Bootstrap** e **CSS personalizado**.
